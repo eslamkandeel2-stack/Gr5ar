@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-24",
+  "tutorQueries": 20,
+  "ttsGenerations": 10,
+  "totalUsed": 30,
+  "dailyLimit": 50,
+  "totalTokens": 102146,
+  "promptTokens": 21254,
+  "candidatesTokens": 80901,
+  "dailyTokensLimit": 250000,
+  "tutorTokens": 42260,
+  "tutorPromptTokens": 8073,
+  "tutorCandidatesTokens": 34196,
+  "tutorLastModel": "gemini-3.8-flash",
+  "ttsTokens": 59886,
+  "ttsPromptTokens": 13181,
+  "ttsCandidatesTokens": 46705,
+  "ttsLastModel": "gemini-3.8-flash-tts",
+  "lastApiCall": {
+    "service": "tutor",
+    "model": "gemini-3.8-flash",
+    "promptTokens": 377,
+    "candidatesTokens": 871,
+    "totalTokens": 1248,
+    "timestamp": "2026-09-24T15:01:30.559Z"
+  },
+  "quotaWarning": null,
+  "lastUpdated": "2026-09-24T15:01:30.559Z"
+}
